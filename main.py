@@ -1,5 +1,5 @@
-from scenarios import scenario1
-from scenarios import scenario2
+from scenario import scenario1
+from scenario import scenario2
 
 
 def main():
