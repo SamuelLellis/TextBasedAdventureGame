@@ -26,8 +26,3 @@ def main():
         print("Deciding to give it a chance you approach the car with caution with your fists up in self defense,\n with the windows being blown out and all you don't want to take any chances.")
     if (input1.lower() == "no"):
         print("With a shake of your head you decide that the abandoned car can't do much for you, so you turn your head in the opposite  direction to see if there is anything else outside of this desolate house that you were trapped in.")
-
-
-
-
-main()
